@@ -1,0 +1,4 @@
+paramiko
+customtkinter
+matplotlib
+psutil
