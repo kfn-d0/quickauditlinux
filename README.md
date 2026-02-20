@@ -48,7 +48,7 @@ Analisa as principais vulnerabilidades operacionais e provê os relatórios ativ
 ---
 
 ## Stack Tecnológica Envolvida
-* **Linguagem**: Python.
+* **Linguagem**: `Python`
 * **GUI / Frontend**: `customtkinter`
 * **Biblioteca de Conexão**: `paramiko` 
 * **Mapeamento de Gráficos**: `matplotlib` 
