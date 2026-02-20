@@ -1,6 +1,6 @@
 # Quick Audit Linux
 
-Uma aplicação desktop desenvolvida em Python para facilitar a vida de administradores de sistemas Linux. O **Quick Audit Linux** permite o monitoramento e diagnóstico de múltiplas máquinas virtuais (VMs) em tempo real através de conexões SSH.
+Uma ferramenta em Python para facilitar a vida de administradores de sistemas Linux, o **Quick Audit Linux** permite o monitoramento e diagnóstico de uma ou múltiplas máquinas virtuais (VMs) em tempo real através de conexões SSH.
 
 <img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/3a6b5e1a-8c41-4125-95ee-c507f0b5fde5" />
 
