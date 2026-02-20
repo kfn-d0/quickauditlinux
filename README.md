@@ -1,6 +1,6 @@
 # Quick Audit Linux
 
-Uma aplicação desktop moderna desenvolvida em Python para facilitar a vida de administradores de sistemas Linux. O **SysAdmin Monitor** permite o monitoramento e diagnóstico de múltiplas máquinas virtuais (VMs) em tempo real através de conexões SSH.
+Uma aplicação desktop moderna desenvolvida em Python para facilitar a vida de administradores de sistemas Linux. O **Quick Audit Linux** permite o monitoramento e diagnóstico de múltiplas máquinas virtuais (VMs) em tempo real através de conexões SSH.
 
 <img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/65a445e2-4f69-4072-b7db-f289636e6a22" />
 
