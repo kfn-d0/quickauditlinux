@@ -2,7 +2,10 @@
 
 Uma ferramenta em Python para facilitar a vida de administradores de sistemas Linux, o **Quick Audit Linux** permite o monitoramento e diagnóstico de uma ou múltiplas máquinas virtuais (VMs) em tempo real através de conexões SSH.
 
+**Ubuntu:**
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/fe9189e6-0cd0-49e8-98a1-6efc11a447d2" />
+**Centos:**
+<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/06d7dd3d-b5b9-4b04-9789-49bb495502c9" />
 
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
