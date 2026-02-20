@@ -72,7 +72,7 @@ Abra o terminal na pasta raiz do seu projeto recém extraído:
 
 2. **Inicie a Ferramenta Gráfica**:
    ```powershell
-   python main.py
+   python gui.py
    ```
 
 ---
