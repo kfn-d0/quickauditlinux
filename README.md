@@ -5,7 +5,7 @@ Uma ferramenta em Python para facilitar a vida de administradores de sistemas Li
 **Ubuntu:**
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/fe9189e6-0cd0-49e8-98a1-6efc11a447d2" />
 **Centos:**
-<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/06d7dd3d-b5b9-4b04-9789-49bb495502c9" />
+<img width="1920" height="1034" alt="image" src="https://github.com/user-attachments/assets/03d2bf46-442a-409e-8154-b3331cdf68df" />
 
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
@@ -58,11 +58,11 @@ Analisa as principais vulnerabilidades operacionais e provê os relatórios ativ
 
 ---
 
-## Como Executar Localmente
+## Como Executar
 
 ### Pré-requisitos
 * Ter o Python instalado.
-* Uma ou mais Máquinas Virtuais Linux com protocolo SSH ativado (porta 22 ou customizada). 
+* Uma ou mais VMs Linux com protocolo SSH ativado (porta 22 ou customizada). 
 
 ### Instalação
 
